@@ -1,8 +1,8 @@
-# Bankist Web App JavaScript Code Explanation
-
-The JavaScript code for the Bankist Web App enhances the user experience by adding interactive features and functionality to the app's front-end. Below is a breakdown of key features and their corresponding code sections:
+# Bankist Web App
 
 **Preview of Project:** [https://lsotirova.github.io/bankist-web/](https://lsotirova.github.io/bankist-web)
+
+The JavaScript code for the Bankist Web App enhances the user experience by adding interactive features and functionality to the app's front-end. Below is a breakdown of key features and their corresponding code sections:
 
 ## Modal Handling
 
